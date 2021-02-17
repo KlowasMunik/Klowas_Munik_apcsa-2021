@@ -9,7 +9,7 @@ public class TriangleOneRunner
 	public static void main ( String[] args )
 	{
 		//add test casesString a = “abc”;
-		int size = word.length()-1;
+	
         System.out.println(word);
         for (int i=0; i <= word.length()-1; i++) {
             System.out.println(word.substring(0, size));
